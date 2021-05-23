@@ -634,4 +634,10 @@ p, h1, h2 {
 .page footer img {
   height: 80px;
 }
+
+@media screen and (max-width: 420px) {
+  .page footer img {
+    height: 40px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
